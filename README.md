@@ -1,2 +1,18 @@
 # Online-Dental-Clinic
-Smile Dental Clinic is a responsive dental care website built using HTML and CSS. It allows patients to view clinic services, FAQs, contact details and book or reschedule appointments online. The system improves accessibility, saves time and digitalizes the traditional manual appointment process.
+This is a simple dental clinic website developed using **HTML, CSS And Javascript**.  
+It helps patients view services, read FAQs, check contact details and make online appointments.
+
+## Features
+- Online appointment booking  
+- Service information  
+- FAQs section  
+- Contact details page  
+
+## Technologies Used
+HTML, CSS, Chrome Browser
+
+## How to Run
+Open `index.html` in your browser to start the website.
+
+## Future Scope
+Database integration, user login system, online payment feature.
